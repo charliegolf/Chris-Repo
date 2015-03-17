@@ -1,0 +1,64 @@
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\App.xbf
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\MainPage.xbf
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.xr.xml
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.exe
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.pdb
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\resources.pri
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\AppxManifest.xml
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.build.appxrecipe
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.g.i.cs
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.g.cs
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.g.i.cs
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.g.cs
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\XamlTypeInfo.g.cs
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.xaml
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.xaml
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.xbf
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.xbf
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\XamlSaveStateFile.xml
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\ChrisPhoneApp.exe
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\ChrisPhoneApp.pdb
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\priconfig.xml
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\priconfig.xml.intermediate
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\layout.resfiles
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\layout.resfiles.intermediate
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\resources.resfiles
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\resources.resfiles.intermediate
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\pri.resfiles
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\pri.resfiles.intermediate
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\qualifiers.txt
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\qualifiers.txt.intermediate
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\chris\documents\visual studio 2013\Projects\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\App.xbf
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\MainPage.xbf
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.xr.xml
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.exe
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.pdb
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\resources.pri
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\AppxManifest.xml
+C:\ChrisPhoneApp\ChrisPhoneApp\bin\Debug\ChrisPhoneApp.build.appxrecipe
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.g.i.cs
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.g.cs
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.g.i.cs
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.g.cs
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.xaml
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.xaml
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\App.xbf
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MainPage.xbf
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\ChrisPhoneApp.exe
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\ChrisPhoneApp.pdb
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\priconfig.xml
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\layout.resfiles
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\resources.resfiles
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\pri.resfiles
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\qualifiers.txt
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\ChrisPhoneApp\ChrisPhoneApp\obj\Debug\ProjectArchitectures.txt
